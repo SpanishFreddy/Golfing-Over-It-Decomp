@@ -1,7 +1,7 @@
 # Golfing Over It Decomp
 A decompilation of Golfing Over It, original game: https://store.steampowered.com/app/817510/Golfing_Over_It_with_Alva_Majo/
 
-![maxresdefault](https://github.com/SpanishFreddy/Golfing-Over-It-Decomp/assets/121837347/4a5509b7-1441-4f89-9e84-19c5d81a0c99)
+![ss_81cfc4ed82b8b7c20319889f025f3c322ae72ea9 1920x1080](https://github.com/SpanishFreddy/Golfing-Over-It-Decomp/assets/121837347/329936e8-822b-447c-9c60-74c89dfd454f)
 
 The Unity version of this decomp is: 2017.1.2p3
 
