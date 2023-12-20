@@ -1,0 +1,156 @@
+Id*Context*English*Spanish
+_mm_play*Main menu, play label (starts game)*Play*Jugar
+_mm_settings*Main menu, settings label (shows setting screen)*Settings*Ajustes
+_mm_credits*Main menu, credits label (shows credits)*Credits*Créditos
+_mm_exit*Main menu, exit label (closes game)*Exit*Salir
+_mm_save*Main menu, save slot label (followed by a number eg. “Save 1”)*Save*Guardado
+_mm_delete*Main menu, delete save slot label*Delete*Borrar
+_mm_delete_confirmation*Main menu, delete save slot confirmation label*Delete?*¿Borrar?
+_mm_delete_settings*Main menu, delete save slot confirmation label*Delete saved settings?*¿Borrar ajustes guardados?
+_mm_delete_all*Main menu, delete all game data confirmation label*Delete all saved game data?*¿Borrar todos los datos guardados del juego?
+_mm_delete_yes*Main menu, yes label when asked if you want to delete data*Yes*Sí
+_mm_delete_no*Main menu, no label when asked if you want to delete data*No*No
+_mm_back*Main menu, go back to previous submenu*Back*Atrás
+_mm_privacy_policy*Main menu, link to privacy policy*Privacy policy*Política de privacidad
+***
+_time*Label indicating gameplay time*Time*Tiempo
+_hits*Label indicating number of times the ball has been hit*Hits*Golpes
+_abbreviation_hours*Shown when displaying time (eg. 3h:02m:15s)*h*h
+_abbreviation_minutes**m*m
+_abbreviation_seconds**s*s
+***
+***
+***
+***
+_settings_language*Settings menu, label for the language option*Language*Idioma
+_settings_resolution*Settings menu, label for the screen resolution option*Resolution*Resolución
+_settings_fullscreen*Settings menu, label for the full screen option*Full screen*Pantalla completa
+_settings_subtitles*Settings menu, label for the subtitles option*Subtitles*Subtítulos
+_settings_cursor_sensitivity*Settings menu, label for the cursor sensitivity option*Cursor sensitivity*Sensibilidad del cursor
+_settings_sounds_volume*Settings menu, label for the sounds volume option*Sounds volume*Volumen sonidos
+_settings_music_volume*Settings menu, label for the music volume option*Music volume*Volumen música
+_settings_narration_volume*Settings menu, label for the narration volume option*Narration volume*Volumen narración
+_settings_resume*Pause/Settings menu, resume label (close settings and unpause the game)*Resume*Reanudar
+_settings_back*Settings menu, label to go back to main menu*Back*Atrás
+_settings_apply*Settings menu, apply label (apply settings changes)*Apply*Aplicar
+_settings_exit*Pause/Settings menu, exit label (stop the game and go back to the main menu)*Exit*Salir
+_settings_yes*Settings menu, yes label, indicating an option in enabled (eg. “Subtitles: yes”)*Yes*Sí
+_settings_no*Settings menu, no label, indicating an option is disabled (eg. “Subtitles: no”)*No*No
+_settings_language_name*Settings menu, name of the language in its own language (English, Español)*English*Español
+***
+***
+***
+_credits_1*Credits. Use “---” as non-breaking spaces to keep names together*Golfing---Over---It with---Alva---Majo*Golfing---Over---It with---Alva---Majo
+_credits_2*Do not translate name except for “Lariat the Witch” (translate “the Witch”)*Created and narrated by Alva---Majo.*Creado y narrado por Alva---Majo.
+_credits_3**With help from Lariat---the---Witch, Kony---Pyon and C.---Navarro.*Con la ayuda de Lariat---la---Bruja, Kony---Pyon y C.---Navarro.
+_credits_4**Music by Iván---Gregorio.*Música por Iván---Gregorio.
+_credits_5**Based on “Getting---Over---It with Bennett---Foddy”.*Basado en “Getting---Over---It with Bennett---Foddy”.
+_credits_6**Using models from Paint---3D made by Microsoft.*Usando modelos de Paint---3D creados por Microsoft.
+_credits_7**Using images from pixabay.com by 12019, Alexas_Fotos, Genty, Kito32, Msaeedsalem, Ridderhof, rkarkowski.*Usando imágenes de pixabay.com por 12019, Alexas_Fotos, Genty, Kito32, Msaeedsalem, Ridderhof, rkarkowski.
+_credits_8**Using sounds by Soniss---(sonniss.com), Sound---Ex---Machina---(soundexmachina.com), Dustyroom---(dustyroom.com), zolopher---(freesound.org), mkoenig---(freesound.org).*Usando sonidos por Soniss---(sonniss.com), Sound---Ex---Machina---(soundexmachina.com), Dustyroom---(dustyroom.com), zolopher---(freesound.org), mkoenig---(freesound.org).
+_credits_9**Using typographies by Red---Hat---(Liberation), Google---(Noto), Vernon---Adams---(Oswald).*Usando tipografías por Red---Hat---(Liberation), Google---(Noto), Vernon---Adams---(Oswald).
+_credits_10*Credits for the language translation. Change the name as required.*English translation by Alva Majo.*Traducción al español por Alva Majo.
+_credits_11**Majorariatto 2018*Majorariatto 2018
+***
+***
+***
+***
+_narration_01_01*Narration. Do not translate peoples’ names or games’ titles.*There's no feeling more discouraging than starting over.*No hay sentimiento más desalentador que empezar de nuevo.
+_narration_01_02*(leave “Getting Over It with Bennett Foddy” as is)*And that's what you are about to experience if you keep playing this game.*Y eso es lo que estás a punto de experimentar si sigues jugando a este juego.
+_narration_01_03**It's going to be deeply frustrating.*Va a ser profundamente frustrante.
+_narration_01_04**You might trade some of that frustration for disappointment if you are willing to admit that the mistake was yours and only yours*Puede que intercambies parte de esa frustración por decepción si estás dispuesto a admitir que el error fue tuyo y solo tuyo
+_narration_01_05**but the feeling will only get more intense the longer you play.*pero el sentimiento solamente se volverá más intenso cuanto más juegues.
+_narration_01_06**You're going to want to quit playing and every time you don't, every time you find the strength to keep going*Vas a querer dejar de jugar y cada vez que no lo hagas, cada vez que encuentres la fuerza para seguir adelante
+_narration_01_07**you'll only be setting yourself up for a bigger fall.*solo te estarás apuntando para una caída mayor.
+_narration_01_08**And if you manage to get to the top? Will that make you feel good? *¿Y si consigues llegar a la cima? ¿Te hará eso sentir bien?
+_narration_01_09**Will you feel that it's all been worth it?*¿Sentirás que ha valido la pena?
+_narration_01_10**I think you will.*Yo creo que sí.
+***
+_narration_02_01*Narration.*Feel free to stop playing whenever you want. *Siéntete libre de dejar de jugar cuando quieras.
+_narration_02_02**Your progress will be saved automatically.*Tu progreso se guardará automáticamente.
+_narration_02_03**Your loss of progress too.*Tu pérdida de progreso también.
+***
+_narration_03_01*Narration. Do not translate peoples’ names or games’ titles.*This game is a different take on a game that came out in 2017 titled Getting Over It with Bennett Foddy.*Este juego es una aproximación diferente a un juego que salió en 2017 titulado Getting Over It with Bennett Foddy.
+_narration_03_02*(leave “Getting Over It with Bennett Foddy” as is)*The author of that game, Bennett Foddy, was an Australian designer known at the time as the father of intentionally bad controls.*El autor de ese juego, Bennett Foddy, era un diseñador australiano conocido por aquel entonces como el padre de los controles intencionalmente malos.
+_narration_03_03**Weird, unresponsive and hard to understand, intentionally bad controls are bad in the sense that they are sub-optimal for the task at hand*Raros, ortopédicos y difíciles de entender, los controles intencionalmente malos son malos en el sentido de que son subóptimos para la tarea en cuestión.
+_narration_03_04**making a challenging and infuriating experience of what otherwise could well be a walk in the park.*convirtiendo en una experiencia retante e infuriante lo que de otro modo podría ser un paseo.
+_narration_03_05**And yet, they often make for amusing games.*Y aún así, a menudo suponen juegos divertidos.
+_narration_03_06**In Getting Over It your task is simply to climb up a mountain, but dragging yourself with a hammer while sitting inside a cauldron.*En  Getting Over It tu objetivo es simplemente escalar una montaña, pero arrastrándote con un martillo mientras estás sentado dentro de un caldero.
+_narration_03_07**No amount of forward progress is guaranteed; some cliffs are too sheer or too slippery*Ningún tipo de progreso está garantizado; algunas rocas son demasiado inclinadas o resbaladizas
+_narration_03_08**and the player is in constant danger of falling and losing everything.*y el jugador está en constante peligro de caer y perderlo todo.
+_narration_03_09**I watched a video of Bennett Foddy playing his own game and it was interesting to see how erratically he approached his own challenges.*Una vez vi un video de Bennett Foddy jugando a su propio juego y fue interesante ver la forma errática con la que se enfrentaba a sus propios desafíos.
+_narration_03_10**He knew it was possible to overcome them and he knew the movements he needed to execute*Él sabía que era posible superarlos y también los movimientos que debía ejecutar
+_narration_03_11**so he would make an attempt, but he would fail, without a clear reason why*así que lo intentaba una vez, pero fallaba, sin que estuviese claro por qué
+_narration_03_12**so he would try again, exactly the same movements he attempted the first time*así que lo intentaba otra vez, exactamente los mismos movimientos que intentó la primera vez
+_narration_03_13**and he would repeat this process until, eventually, it actually worked*y seguía repitiendo este proceso hasta que, tarde o temprano, terminaba funcionando
+_narration_03_14**giving the impression that the challenge was more about perseverance and luck than precision.*dando la impresión de que el reto consistía más en perseverancia y suerte que en precisión.
+***
+_narration_04_01*Narration. Do not translate peoples’ names or games’ titles.*In Getting Over It, Bennett Foddy claims that frustration is essential to the act of climbing, but I disagree.*En  Getting Over It, Bennett Foddy afirma que la frustración es esencial para el acto de escalar, pero yo discrepo.
+_narration_04_02*(leave “Getting Over It with Bennett Foddy” as is)*Frustration might be essential to having a real challenge, an obstacle that you are not guaranteed to be able to overcome*Puede que la frustración sea esencial para un desafío real, un obstáculo que no está asegurado que puedas superar
+_narration_04_03**but the act of climbing itself can be enjoyable.*pero el acto de escalar en sí puede ser disfrutable.
+_narration_04_04**Climbing in Getting Over It is not frustrating because you can easily fall down and lose all your progress*Escalar en  Getting Over It no es frustrante porque puedes caerte fácilmente y perder todo tu progreso
+_narration_04_05**but because controlling the main character is infuriating.*sino porque controlar al protagonista es exasperante.
+_narration_04_06**Of course, falling and losing all your progress is also frustrating*Por supuesto, caerte y perder todo tu progreso también es frustrante
+_narration_04_07**but the worst part is not that you have to climb it all over again*pero la peor parte no es que tengas que escalarlo todo otra vez
+_narration_04_08**it's that you have to fight with the controls while doing so.*es que tengas que pelearte con los controles mientras lo haces.
+_narration_04_09**This game is pretty much like Getting Over It*Este juego es básicamente como Getting Over It
+_narration_04_10**you need to climb up a world made of premade assets while the game creator talks to you about the game itself*tienes que escalar un mundo hecho de objetos prefabricados mientras el creador del juego te habla sobre el juego en sí
+_narration_04_11**and the point of the game is built around the fact that it's a very hard challenge and you can easily lose all your progress at any time.*y el sentido del juego está construido al rededor del hecho de que es un reto muy difícil y puedes perder todo tu progreso fácilmente en cualquier momento.
+_narration_04_12**The main difference, what makes this game more than just a clone of the original, is its controls*La diferencia principal, lo que convierte a este juego en algo más que un clon del original, son sus controles
+_narration_04_13**not only because hitting a ball is quite different from pulling yourself with a hammer, but because it's easy and intuitive to control.*no solo porque golpear una bola es bastante diferente de arrastrarte con un martillo, sino porque es fácil e intuitivo de controlar.
+_narration_04_14**You hit the ball with a certain force, at a certain angle, and that's it.*Golpeas la bola con una fuerza concreta, en un ángulo concreto, y ya está.
+_narration_04_15**The difficulty lays in calculating what force and what angle you should apply to the ball, and it's not infuriating because you feel in control. *La dificultad está en calcular cuánta fuerza y en qué ángulo debes aplicarle a la bola, y no es exasperante porque sientes que está bajo control.
+_narration_04_16**If the ball doesn't land where you wanted, you know it's because you did the wrong calculations, and you feel that you can do it better if you try again.*Si la bola no aterriza donde querías, sabes que es porque has hecho mal los cálculos, y sientes que puedes hacerlo mejor si lo vuelves a intentar.
+_narration_04_17**This is a game in which you can experience the challenge of climbing an unyielding mountain without infuriating controls being part of that challenge.*Este es un juego en el que puedes experimentar el reto de escalar una montaña inquebrantable sin controles exasperantes siendo parte del desafío.
+_narration_04_18**But that's not the reason why I made this game, it's only why I thought it was worth finishing.*Pero ese no es el motivo por el que hice este juego, es solo la razón por la que pensé que merecía la pena terminarlo.
+***
+_narration_05_01*Narration. Do not translate peoples’ names or games’ titles.*So, why did I make this game?*Así que, ¿por qué hice este juego?
+_narration_05_02*(leave “Getting Over It with Bennett Foddy” as is)*I was lying in bed, thinking of and unusual concept for a golf game.*Estaba tumbado en la cama, pensando sobre un concepto novedoso para un juego de golf.
+_narration_05_03**It had nothing to do with this one except for the fact that it would be challenging and potentially frustrating.*No tenía nada que ver con este excepto por el hecho de que sería retante y potencialmente frustrante.
+_narration_05_04**I was considering if that frustration would be similar to that of Getting Over It*Estaba considerando si esa frustración sería similar a la de Getting Over It
+_narration_05_05**and then a title just popped up in my mind: “Golfing Over It with Alva Majo”.*y de repente un título apareció en mi cabeza: “Golfing Over It with Alva Majo”.
+***
+_narration_06_01*Narration. Do not translate peoples’ names or games’ titles.*I generally hate having to repeat a part of a video game over and over until I can beat it.*En general odio tener que repetir una parte de un videojuego una y otra vez hasta que pueda pasármela.
+_narration_06_02*(leave “Getting Over It with Bennett Foddy” as is)*Avoiding that is probably the main point of my design philosophy, so why did I make this game?*Evitar eso es probablemente el punto principal de mi filosofía de diseño, así que ¿por qué hice este juego?
+_narration_06_03**The truth is, it's was an accident, like an unplanned pregnancy.*La verdad es que fue un accidente, como un embarazo accidental.
+_narration_06_04**After coming up with the title, I wanted to test the concept, just to see what it would feel like.*Tras pensar el título, quería probar el concepto, solo para ver cómo se sentiría.
+_narration_06_05**I created the ball and the controls, then I started building and testing the world, and it was fun.*Creé la bola y los controles, luego empecé a construir y probar el mundo, y fue divertido.
+_narration_06_06**It was so much fun. I got into a deep state of flow.*Fue tan divertido. Entré en un profundo estado de “flow”.
+_narration_06_07**I worked all day, forgetting to eat, not wanting to sleep.*Trabajé el día entero, olvidándome de comer, sin querer irme a dormir.
+_narration_06_08**I did the same the day after, and the one after that, and before I knew it the body of the game was finished.*Hice lo mismo al día siguiente, y al siguiente, y antes de que me diese cuenta el cuerpo del juego estaba terminado.
+_narration_06_09**I would have never planned to make a game like this.*Nunca habría planeado hacer un juego así.
+_narration_06_10**Even if we forget my design principles for a moment, I would have never made a game that lives only as the shadow of another one.*Incluso si olvidamos mis principios de diseño por un momento, nunca habría planeado hacer un juego que existe solo como la sombra de otro.
+_narration_06_11**It feels cheap. It doesn't reflect well on me as an artist.*Parece algo cutre. No se refleja bien en mí como artista.
+_narration_06_12**And yet, I couldn't bring myself to stop there, to delete the game and move on.*Y aún así, no pude convencerme de dejarlo ahí, de borrar el juego y ponerme con otra cosa.
+_narration_06_13**I felt like this game deserved to be made.*Sentía que este juego merecía existir.
+_narration_06_14**In the end, I decided to embrace this fate.*Al final, decidí abrazar este destino.
+_narration_06_15**I would finish making this frustrating game and I would make it all about its relationship to Getting Over It.*Terminaría de hacer este juego frustrante y lo enfocaría todo en su relación con Getting Over It.
+_narration_06_16**Like an unofficial spiritual sequel.*Como una secuela espiritual no-oficial.
+***
+_narration_07_01*Narration.*We are close to the top now, you must have suffered a lot to get here, but I wonder...*Ya estamos cerca de la cima, debes haber sufrido muchísimo para llegar hasta aquí, pero me pregunto…
+_narration_07_02**Given the chance, would you choose to make things easier for yourself or would you choose to suffer even more?*Dada la oportunidad, ¿elegirías ponerte las cosas fáciles o elegirías sufrir todavía más?
+_narration_07_03**The choice is yours.*La elección es tuya.
+_narration_07_04**There's no reward for choosing one or the other*No hay ninguna recompensa por elegir una cosa o la otra
+_narration_07_05**except for the rewarding feeling you might experience for overcoming or avoiding an extra bit of challenge.*a excepción de la sensación gratificante que puede que experimentes por superar o evitar un trozo de desafío extra.
+***
+_narration_08_01*Narration.*Hey, you are almost there!*¡Hey, ya casi estás!
+_narration_08_02**What you have done is pretty incredible; it's heroic.*Lo que has hecho es bastante increíble; es heróico.
+_narration_08_03**You are my hero, and I applaud you.*Tú eres mi héroe, y yo te aplaudo.
+_narration_08_04**[Applause]*[Aplauso]
+_narration_08_05**Well done.*Bien hecho.
+***
+_narration_girl_01*Narration. Do not translate peoples’ names or games’ titles.*There's a castle to your left.*Hay un castillo a tu izquierda.
+_narration_girl_02**Inside it lives a girl, her name is Alvatross.*En su interior vive una chica, su nombre es Alvatross.
+_narration_girl_03**She's watching you play, silently wishing for you to make it to the top.*Ella te está observando jugar, deseando en silencio que consigas llegar a la cima.
+_narration_girl_04**But be careful, because there's a canon pointing at her and if you touch it it will fire.*Pero ten cuidado, porque hay un cañón apuntándole y si lo tocas se disparará.
+_narration_girl_05**I just wanted to add a touch of interactive narrative.*Simplemente quería añadir un toque de narrativa interactiva.
+***
+_narration_fall_01*Narration.*Uuuuuuh... That must have hurt.*Uuuuuuh... Eso tiene que haber dolido.
+_narration_fall_02**Don't worry, though; it will happen again.*Pero no te preocupes; te volverá a pasar otra vez.
+_narration_fall_03**And again.*Y otra vez.
+_narration_fall_04**And again…*Y otra vez...
+***
+_narration_journey_01*Narration.*Focusing on the destination will ruin the journey.*Centrarse en el destino arruinará el viaje.
+_narration_journey_02**If you let go of the idea of reaching the top, you will enjoy this game a lot more.*Si te olvidas de la idea de regar a la cima, disfrutarás este juego bastante más.
+_narration_journey_03**It will be a relaxing experience and falling will barely hurt.*Será una experiencia relajante y caer apenas dolerá.
+_narration_journey_04**And, if you keep playing, you will eventually get there.*Y, si sigues jugando, tarde o temprano llegarás.

@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2019389346, guid: ac477cc4f9a4c330fb4c187068a5a9bc, type: 3}
+  m_Name: DropCap Numbers
+  m_EditorClassIdentifier:
+  hashCode: 874831499
+  material: {fileID: 2100000, guid: 060d3469224cb8f4b953b8249870833e, type: 2}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: b6e30d50847bc874089126df7b7a02b1, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 03A5
+    hashCode: 1673815
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 2f7af27722ff30b4b98bf70fe08303b9, type: 2}
+  - id: 1
+    x: 128
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 1
+    hashCode: 49
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 9e8dc160d88140e44a1af430d26f6ace, type: 2}
+  - id: 2
+    x: 256
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 2
+    hashCode: 50
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: e399e645ec2dc02468d6be684f71d95f, type: 2}
+  - id: 3
+    x: 384
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 3
+    hashCode: 51
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: eba762f9ba0e84e4b89e509288ed8802, type: 2}
+  - id: 4
+    x: 0
+    y: 256
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 4
+    hashCode: 52
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: bf56faab47d48d0438a7b86cc81b1ef0, type: 2}
+  - id: 5
+    x: 128
+    y: 256
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 5
+    hashCode: 53
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 5eee0e31515716342af214da508e7bd2, type: 2}
+  - id: 6
+    x: 256
+    y: 256
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 6
+    hashCode: 54
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 0291f0fa0f567b24892f6737ca1531cb, type: 2}
+  - id: 7
+    x: 384
+    y: 256
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 7
+    hashCode: 55
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 49d855e28af7c3343a1291e72a2788a6, type: 2}
+  - id: 8
+    x: 0
+    y: 128
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 8
+    hashCode: 56
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: d66a7bdd90560584aa44fc535e8e733f, type: 2}
+  - id: 9
+    x: 128
+    y: 128
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 1
+    name: 9
+    hashCode: 57
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 1ff14a17934dd7944bec4fa90265a24d, type: 2}
+  - id: 10
+    x: 0
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 112.25
+    xAdvance: 128
+    scale: 2.2
+    name: 0-Large
+    hashCode: 1182309024
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 2f7af27722ff30b4b98bf70fe08303b9, type: 2}
+  - id: 11
+    x: 128
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 47.5
+    xAdvance: 128
+    scale: 2.2
+    name: 1-Large
+    hashCode: 451176033
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 9e8dc160d88140e44a1af430d26f6ace, type: 2}
+  - id: 12
+    x: 256
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 47.5
+    xAdvance: 128
+    scale: 2.2
+    name: 2-Large
+    hashCode: -534322270
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: e399e645ec2dc02468d6be684f71d95f, type: 2}
+  - id: 13
+    x: 384
+    y: 384
+    width: 128
+    height: 128
+    xOffset: 2.9
+    yOffset: 47.5
+    xAdvance: 128
+    scale: 2.2
+    name: 3-Large
+    hashCode: -1265455261
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: eba762f9ba0e84e4b89e509288ed8802, type: 2}
+  fallbackSpriteAssets: []

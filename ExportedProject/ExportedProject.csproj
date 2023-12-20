@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{76C1D374-61D2-3C70-5C8D-28C5C6C96D20}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectGenerator>VSTU</UnityProjectGenerator>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityVersion>2017.1.2p3</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_2;UNITY_2017_1;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_2;UNITY_2017_1;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Timeline">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>C:/Program Files/UnityWiiU/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-2017.3-1.0.56-Runtime">
+      <HintPath>Assets/Plugins/TextMeshPro-2017.3-1.0.56-Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="ExportedProject.Plugins.csproj">
+      <Project>{C04EB201-295B-94CB-CD33-B7C7D6166A23}</Project>
+      <Name>ExportedProject.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Achievement01Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Achievement02Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Achievement03Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Achievement04Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Achievement05Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Achievement06Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Achievement07Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmbienAudioSourcesController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BallController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BgController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CanonController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ChatController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CursorContainerController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EndingCreditsAnimationController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EndingCreditsController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EnvMapAnimator.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\GeometryController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\GeometryResetController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\GlobalAudio.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\GlobalInput.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\GlobalSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\HardPathMusicTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InputController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LoadingController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LoadingLogoController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LoadPlayFadeController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LoadSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MainMenuBallController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MainMenuCameraController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MainMenuController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MainMenuInputController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration01Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration02Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration03Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration04Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration05Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration06Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration07Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Narration08Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\NarrationAnimationController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\NarrationController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\NarrationGirlTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Properties\AssemblyInfo.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SaveData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SaveLoad.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SettingsCameraController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SettingsInputController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SteamManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SteamStatsAndAchievements.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SubtitlesController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SubtitlesSizeController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TextString.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\Benchmark01.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\Benchmark01_UGUI.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\Benchmark02.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\Benchmark03.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\Benchmark04.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\ObjectSpin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\SimpleScript.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\SkewTextExample.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TeleType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TextMeshProFloatingText.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TextMeshSpawner.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMP_ExampleScript_01.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMP_FrameRateCounter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMP_TextInfoDebugTool.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMP_TextSelector_B.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\TMPro_InstructionOverlay.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\VertexColorCycler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\VertexJitter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\VertexShakeA.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\VertexShakeB.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\VertexZoom.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\Examples\WarpTextExample.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TMPro\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TranslationController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Resources\shaders\TMPro.cginc" />
+    <None Include="Assets\Resources\shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\Resources\shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Bitmap.shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Distance Field (Surface).shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Distance Field Overlay.shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Distance Field.shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Mobile_Bitmap.shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Mobile_Distance Field (Surface).shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Mobile_Distance Field - Masking.shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Mobile_Distance Field Overlay.shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Mobile_Distance Field.shader" />
+    <None Include="Assets\Resources\shaders\TextMeshPro_Sprite.shader" />
+    <None Include="Assets\TextAsset\Texts.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>
